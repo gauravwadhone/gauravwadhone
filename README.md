@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gauravwadhone
 - 👀 I’m interested in learning and engaging with new techlogies
-- 🌱 I’m currently learning IoT AWS service
-- 💞️ I’m looking to collaborate on aws service
+- 🌱 I’m currently learning IoT AWS services
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me gauravwadhone@gmail.com
 
 <!---
